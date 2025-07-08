@@ -277,7 +277,7 @@ class _BikeShopHomeState extends State<BikeShopHome> {
                             smallSize: 14,
                             padding: EdgeInsets.all(2),
                             offset: Offset(12, -4),
-                            textStyle: TextStyle(fontSize: 14),
+                            textStyle: TextStyle(fontSize: 12),
                             backgroundColor: Color(0xFF06B6D4),
                             largeSize: 24,
                             child: Icon(
